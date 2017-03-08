@@ -16,3 +16,4 @@ dependencies:
     - git+git://github.com/ipython-contrib/jupyter_contrib_nbextensions.git
     - git+git://github.com/heitzmann/gdspy.git
     - git+git://github.com/ryanpepper/tcl_kernel.git
+    - git+git://github.com/catherinedevlin/ipython-sql.git
