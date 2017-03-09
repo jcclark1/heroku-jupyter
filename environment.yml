@@ -11,7 +11,7 @@ dependencies:
   - six
   - sqlalchemy
   - nose
-  - panda
+  - pandas
   - numpy
   - matplotlib
   - pip:
